@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xojlqLnNXpQFZHyhb0YMkydiMvFiF1rN7zwzw6li6V+MFY3eSWs5C5wWncJABBgnsThnH7iarjMjjog06du9AQ==",
+  "success": true,
+  "projectFilePath": "C:\\_GitHub\\microservices--containerization\\microservice_A_(C#.NET)\\DemoApp\\DemoApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\rabbitmq.client\\6.0.0\\rabbitmq.client.6.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.text.encodings.web\\4.7.1\\system.text.encodings.web.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

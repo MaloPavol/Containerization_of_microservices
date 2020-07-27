@@ -1,0 +1,16 @@
+C:\_GitHub\microservices--containerization\microservice_A_(C#.NET)\DemoApp_A\bin\Debug\netcoreapp3.1\DemoApp_A.exe
+C:\_GitHub\microservices--containerization\microservice_A_(C#.NET)\DemoApp_A\bin\Debug\netcoreapp3.1\DemoApp_A.deps.json
+C:\_GitHub\microservices--containerization\microservice_A_(C#.NET)\DemoApp_A\bin\Debug\netcoreapp3.1\DemoApp_A.runtimeconfig.json
+C:\_GitHub\microservices--containerization\microservice_A_(C#.NET)\DemoApp_A\bin\Debug\netcoreapp3.1\DemoApp_A.runtimeconfig.dev.json
+C:\_GitHub\microservices--containerization\microservice_A_(C#.NET)\DemoApp_A\bin\Debug\netcoreapp3.1\DemoApp_A.dll
+C:\_GitHub\microservices--containerization\microservice_A_(C#.NET)\DemoApp_A\bin\Debug\netcoreapp3.1\DemoApp_A.pdb
+C:\_GitHub\microservices--containerization\microservice_A_(C#.NET)\DemoApp_A\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\_GitHub\microservices--containerization\microservice_A_(C#.NET)\DemoApp_A\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\_GitHub\microservices--containerization\microservice_A_(C#.NET)\DemoApp_A\obj\Debug\netcoreapp3.1\DemoApp_A.csproj.CoreCompileInputs.cache
+C:\_GitHub\microservices--containerization\microservice_A_(C#.NET)\DemoApp_A\obj\Debug\netcoreapp3.1\DemoApp_A.AssemblyInfoInputs.cache
+C:\_GitHub\microservices--containerization\microservice_A_(C#.NET)\DemoApp_A\obj\Debug\netcoreapp3.1\DemoApp_A.AssemblyInfo.cs
+C:\_GitHub\microservices--containerization\microservice_A_(C#.NET)\DemoApp_A\obj\Debug\netcoreapp3.1\DemoApp_A.csproj.CopyComplete
+C:\_GitHub\microservices--containerization\microservice_A_(C#.NET)\DemoApp_A\obj\Debug\netcoreapp3.1\DemoApp_A.dll
+C:\_GitHub\microservices--containerization\microservice_A_(C#.NET)\DemoApp_A\obj\Debug\netcoreapp3.1\DemoApp_A.pdb
+C:\_GitHub\microservices--containerization\microservice_A_(C#.NET)\DemoApp_A\obj\Debug\netcoreapp3.1\DemoApp_A.genruntimeconfig.cache
+C:\_GitHub\microservices--containerization\microservice_A_(C#.NET)\DemoApp_A\obj\Debug\netcoreapp3.1\DemoApp_A.csprojAssemblyReference.cache

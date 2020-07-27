@@ -1,0 +1,15 @@
+C:\_MSc-SDE\SS20-SE\devProject2\DUMMY_GETTING_STARTED_.NET-RabbitMQ\RPC_client\bin\Debug\netcoreapp3.1\RpcClient.exe
+C:\_MSc-SDE\SS20-SE\devProject2\DUMMY_GETTING_STARTED_.NET-RabbitMQ\RPC_client\obj\Debug\netcoreapp3.1\RpcClient.AssemblyInfoInputs.cache
+C:\_MSc-SDE\SS20-SE\devProject2\DUMMY_GETTING_STARTED_.NET-RabbitMQ\RPC_client\obj\Debug\netcoreapp3.1\RpcClient.AssemblyInfo.cs
+C:\_MSc-SDE\SS20-SE\devProject2\DUMMY_GETTING_STARTED_.NET-RabbitMQ\RPC_client\bin\Debug\netcoreapp3.1\RpcClient.deps.json
+C:\_MSc-SDE\SS20-SE\devProject2\DUMMY_GETTING_STARTED_.NET-RabbitMQ\RPC_client\bin\Debug\netcoreapp3.1\RpcClient.runtimeconfig.json
+C:\_MSc-SDE\SS20-SE\devProject2\DUMMY_GETTING_STARTED_.NET-RabbitMQ\RPC_client\bin\Debug\netcoreapp3.1\RpcClient.runtimeconfig.dev.json
+C:\_MSc-SDE\SS20-SE\devProject2\DUMMY_GETTING_STARTED_.NET-RabbitMQ\RPC_client\bin\Debug\netcoreapp3.1\RpcClient.dll
+C:\_MSc-SDE\SS20-SE\devProject2\DUMMY_GETTING_STARTED_.NET-RabbitMQ\RPC_client\bin\Debug\netcoreapp3.1\RpcClient.pdb
+C:\_MSc-SDE\SS20-SE\devProject2\DUMMY_GETTING_STARTED_.NET-RabbitMQ\RPC_client\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\_MSc-SDE\SS20-SE\devProject2\DUMMY_GETTING_STARTED_.NET-RabbitMQ\RPC_client\obj\Debug\netcoreapp3.1\RpcClient.csprojAssemblyReference.cache
+C:\_MSc-SDE\SS20-SE\devProject2\DUMMY_GETTING_STARTED_.NET-RabbitMQ\RPC_client\obj\Debug\netcoreapp3.1\RpcClient.csproj.CoreCompileInputs.cache
+C:\_MSc-SDE\SS20-SE\devProject2\DUMMY_GETTING_STARTED_.NET-RabbitMQ\RPC_client\obj\Debug\netcoreapp3.1\RpcClient.csproj.CopyComplete
+C:\_MSc-SDE\SS20-SE\devProject2\DUMMY_GETTING_STARTED_.NET-RabbitMQ\RPC_client\obj\Debug\netcoreapp3.1\RpcClient.dll
+C:\_MSc-SDE\SS20-SE\devProject2\DUMMY_GETTING_STARTED_.NET-RabbitMQ\RPC_client\obj\Debug\netcoreapp3.1\RpcClient.pdb
+C:\_MSc-SDE\SS20-SE\devProject2\DUMMY_GETTING_STARTED_.NET-RabbitMQ\RPC_client\obj\Debug\netcoreapp3.1\RpcClient.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+com\ws\RpcRequest.class
+com\ws\RpcResponse.class
+com\ws\DemoApp.class
+com\ws\EcbConnector.class
+com\ws\FxRateCalculator.class
